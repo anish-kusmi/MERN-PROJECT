@@ -1,0 +1,107 @@
+.first-text{
+    font-family:'Poppins';
+     /* font-weight:80px; */
+    color:blue;
+    font-size: 30px
+}
+.second-text{
+    color:blueviolet;
+    font-size: 30px
+}
+.third-text{
+    color:brown;
+    font-size: 30px
+}
+.fourth-text{
+    color:aqua;
+    font-size: 30px
+} 
+ .fifth-text{
+    color:black;
+    font-size: 30px
+} 
+.first-div{
+    background-color:azure;
+}
+.header-main{
+  display:flex;
+  justify-content:last baseline;
+  background-color: aqua;
+}
+.header-menu{
+    display:flex;
+    list-style:none;
+   justify-content:flex-start;
+}
+.header-menu li{
+    display:flex;
+    list-style:none;
+    justify-content:flex-start;
+}
+      table {
+        width: 100%;
+      }
+
+      th,
+      td {
+        border: 2px solid #add;
+        padding: 8px;
+        text-align: center;
+      }
+      thead {
+        background-color:azure;
+      }
+      .table-tittle {
+        text-align: center;
+      }
+    .kartik-group{
+      /* background:url("../image/download.jpeg"); */
+      background-position:center;
+      background-repeat:no-repeat;
+      background-size:cover;
+      background-color: black;
+      padding:80px 0px;
+      color:beige;
+    }
+    .footer{
+      display:flex;
+      list-style: none;
+      justify-content: space-between;
+      padding:60px 0px;
+      background-color:black;
+      background-position:center;
+      background-repeat:no-repeat;
+      color:white;
+      margin:6px;
+    }
+    .footer-list{
+      list-style-type: none;
+    }
+    .cards{
+      background-color:blue;
+      cursor: pointer;
+    }
+    card-part{
+      position:absolute;
+      z-index: 2;
+    }
+    .cards img{
+      width:100%;
+      position:relative;
+    }
+    .cards:hover{
+      background:black;
+      color:white;
+    }
+    .card-body{
+      padding:30px;
+    }
+    @media only screen and(max-width: 768px){
+
+
+    }
+
+    @media only screen and(max-width: 768px){
+
+    }
+    /*  explore before and after css property*/
